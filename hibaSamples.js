@@ -1,0 +1,22 @@
+[
+{ "url":"hiba/hibaAll.wav","type":"audio","bank":"all","n":0},
+{ "url":"hiba/hiba1.wav","type":"audio","bank":"hiba","n":0},
+{ "url":"hiba/hiba2.wav","type":"audio","bank":"hiba","n":1},
+{ "url":"hiba/hiba3.wav","type":"audio","bank":"hiba","n":2},
+{ "url":"hiba/hiba4.wav","type":"audio","bank":"hiba","n":3},
+{ "url":"hiba/hiba5.wav","type":"audio","bank":"hiba","n":4},
+{ "url":"hiba/hiba6THIS.wav","type":"audio","bank":"hiba","n":5},
+{ "url":"hiba/hiba7THIS.wav","type":"audio","bank":"hiba","n":6},
+{ "url":"hiba/hiba8THIS.wav","type":"audio","bank":"hiba","n":7},
+{ "url":"hiba/hiba9.wav","type":"audio","bank":"hiba","n":8},
+{ "url":"hiba/hiba10.wav","type":"audio","bank":"hiba","n":9},
+{ "url":"hiba/hiba11.wav","type":"audio","bank":"hiba","n":10},
+{ "url":"hiba/hiba12.wav","type":"audio","bank":"hiba","n":11},
+{ "url":"hiba/hiba13.wav","type":"audio","bank":"hiba","n":12},
+{ "url":"hiba/hiba14.wav","type":"audio","bank":"hiba","n":13},
+{ "url":"hiba/hiba15.wav","type":"audio","bank":"hiba","n":14},
+{ "url":"hiba/hiba16.wav","type":"audio","bank":"hiba","n":15},
+{ "url":"hiba/hiba17.wav","type":"audio","bank":"hiba","n":16},
+{ "url":"hiba/hiba18.wav","type":"audio","bank":"hiba","n":17},
+{ "url":"hiba/hiba19.wav","type":"audio","bank":"hiba","n":18}
+]
